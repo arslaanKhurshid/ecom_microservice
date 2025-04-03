@@ -1,0 +1,134 @@
+2025-04-03 21:39:58 [main] INFO  c.e.a.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 25568 (C:\Users\arsla\OneDrive\Desktop\ecom-microservice\api-gateway\target\classes started by arsla in C:\Users\arsla\OneDrive\Desktop\ecom-microservice)
+2025-04-03 21:39:58 [main] INFO  c.e.a.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-03 21:39:59 [main] INFO  c.e.a.ApiGatewayApplication - Started ApiGatewayApplication in 1.181 seconds (process running for 1.582)
+2025-04-03 21:40:08 [main] INFO  c.e.a.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 24504 (C:\Users\arsla\OneDrive\Desktop\ecom-microservice\api-gateway\target\classes started by arsla in C:\Users\arsla\OneDrive\Desktop\ecom-microservice)
+2025-04-03 21:40:08 [main] INFO  c.e.a.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-03 21:40:08 [main] INFO  c.e.a.ApiGatewayApplication - Started ApiGatewayApplication in 1.583 seconds (process running for 1.915)
+2025-04-03 21:48:31 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.2.Final
+2025-04-03 21:48:32 [main] INFO  c.e.a.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 26600 (C:\Users\arsla\OneDrive\Desktop\ecom-microservice\api-gateway\target\classes started by arsla in C:\Users\arsla\OneDrive\Desktop\ecom-microservice)
+2025-04-03 21:48:32 [main] INFO  c.e.a.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-03 21:48:33 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=9ee81541-f51b-3277-9075-82146d72ddfc
+2025-04-03 21:48:35 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [After]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Before]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Between]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Cookie]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Header]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Host]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Method]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Path]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Query]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [ReadBody]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [RemoteAddr]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Weight]
+2025-04-03 21:48:35 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2025-04-03 21:48:37 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 21:48:37 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080 (http)
+2025-04-03 21:48:39 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 21:48:40 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 21:48:40 [main] INFO  c.e.a.ApiGatewayApplication - Started ApiGatewayApplication in 10.481 seconds (process running for 11.071)
+2025-04-03 22:13:46 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-03 22:13:46 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2025-04-03 22:13:57 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.2.Final
+2025-04-03 22:13:57 [main] INFO  c.e.a.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 25464 (C:\Users\arsla\OneDrive\Desktop\ecom-microservice\api-gateway\target\classes started by arsla in C:\Users\arsla\OneDrive\Desktop\ecom-microservice)
+2025-04-03 22:13:57 [main] INFO  c.e.a.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-03 22:13:58 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=9ee81541-f51b-3277-9075-82146d72ddfc
+2025-04-03 22:14:00 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [After]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Before]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Between]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Cookie]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Header]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Host]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Method]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Path]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Query]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [ReadBody]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [RemoteAddr]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Weight]
+2025-04-03 22:14:01 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2025-04-03 22:14:02 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:14:03 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080 (http)
+2025-04-03 22:14:04 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:14:06 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:14:06 [main] INFO  c.e.a.ApiGatewayApplication - Started ApiGatewayApplication in 10.567 seconds (process running for 11.148)
+2025-04-03 22:22:47 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-03 22:22:47 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2025-04-03 22:27:34 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.2.Final
+2025-04-03 22:27:34 [main] INFO  c.e.a.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 21800 (C:\Users\arsla\OneDrive\Desktop\ecom-microservice\api-gateway\target\classes started by arsla in C:\Users\arsla\OneDrive\Desktop\ecom-microservice)
+2025-04-03 22:27:34 [main] INFO  c.e.a.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-03 22:27:35 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=9ee81541-f51b-3277-9075-82146d72ddfc
+2025-04-03 22:27:37 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [After]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Before]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Between]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Cookie]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Header]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Host]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Method]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Path]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Query]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [ReadBody]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [RemoteAddr]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Weight]
+2025-04-03 22:27:37 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2025-04-03 22:27:39 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:27:39 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080 (http)
+2025-04-03 22:27:41 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:27:42 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 22:27:42 [main] INFO  c.e.a.ApiGatewayApplication - Started ApiGatewayApplication in 9.967 seconds (process running for 10.513)
+2025-04-03 22:42:39 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-03 22:42:39 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2025-04-03 23:06:26 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.2.Final
+2025-04-03 23:06:26 [main] INFO  c.e.a.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 12236 (C:\Users\arsla\OneDrive\Desktop\ecom-microservice\api-gateway\target\classes started by arsla in C:\Users\arsla\OneDrive\Desktop\ecom-microservice)
+2025-04-03 23:06:26 [main] INFO  c.e.a.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-03 23:06:27 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=9ee81541-f51b-3277-9075-82146d72ddfc
+2025-04-03 23:06:29 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [After]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Before]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Between]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Cookie]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Header]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Host]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Method]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Path]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Query]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [ReadBody]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [RemoteAddr]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Weight]
+2025-04-03 23:06:30 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2025-04-03 23:06:31 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:06:31 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080 (http)
+2025-04-03 23:06:33 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:06:34 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:06:34 [main] INFO  c.e.a.ApiGatewayApplication - Started ApiGatewayApplication in 10.294 seconds (process running for 10.953)
+2025-04-03 23:07:49 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.netty.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-03 23:07:49 [netty-shutdown] INFO  o.s.b.w.e.netty.GracefulShutdown - Graceful shutdown complete
+2025-04-03 23:13:42 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.2.Final
+2025-04-03 23:13:42 [main] INFO  c.e.a.ApiGatewayApplication - Starting ApiGatewayApplication using Java 17.0.12 with PID 7472 (C:\Users\arsla\OneDrive\Desktop\ecom-microservice\api-gateway\target\classes started by arsla in C:\Users\arsla\OneDrive\Desktop\ecom-microservice)
+2025-04-03 23:13:42 [main] INFO  c.e.a.ApiGatewayApplication - No active profile set, falling back to 1 default profile: "default"
+2025-04-03 23:13:43 [main] INFO  o.s.cloud.context.scope.GenericScope - BeanFactory id=9ee81541-f51b-3277-9075-82146d72ddfc
+2025-04-03 23:13:45 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [After]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Before]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Between]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Cookie]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Header]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Host]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Method]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Path]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Query]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [ReadBody]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [RemoteAddr]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [Weight]
+2025-04-03 23:13:46 [main] INFO  o.s.c.g.r.RouteDefinitionRouteLocator - Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2025-04-03 23:13:48 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:13:48 [main] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080 (http)
+2025-04-03 23:13:50 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:13:51 [main] INFO  o.s.cloud.commons.util.InetUtils - Cannot determine local hostname
+2025-04-03 23:13:51 [main] INFO  c.e.a.ApiGatewayApplication - Started ApiGatewayApplication in 11.362 seconds (process running for 11.918)
