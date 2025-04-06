@@ -9,6 +9,6 @@ public class User {
         this.name = name;
     }
 
-    public Long getId() { return id; }
+    public String getId() { return id; }
     public String getName() { return name; }
 }
